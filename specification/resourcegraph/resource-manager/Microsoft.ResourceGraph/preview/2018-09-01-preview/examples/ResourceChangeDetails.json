@@ -1,4 +1,6 @@
 {
+  "title": "Resource Change Details Query",
+  "description": "A resource change details query.",
   "parameters": {
     "api-version": "2018-09-01-preview",
     "parameters": {

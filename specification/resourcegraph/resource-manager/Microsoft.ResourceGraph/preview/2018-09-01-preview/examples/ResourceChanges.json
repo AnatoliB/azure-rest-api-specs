@@ -1,4 +1,6 @@
 {
+  "title": "Basic Resource Changes Query",
+  "description": "A simple resource changes query.",
   "parameters": {
     "api-version": "2018-09-01-preview",
     "parameters": {
